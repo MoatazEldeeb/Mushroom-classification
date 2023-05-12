@@ -1,2 +1,2 @@
 # Mushroom-classification
-Preprocessing, data visualization and classification for mushrooms 
+Preprocessing, data visualization and classification for mushrooms for data mining university project
